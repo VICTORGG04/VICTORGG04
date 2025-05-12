@@ -1,5 +1,5 @@
 -  Opa! Me chamo @VICTORGG04 sou estudante da UFRN e estou desenvolvendo minhas Hábilidades na programação
--  Áreas de Interesse: Sensores e Atuadores // Criação de programas de Automatização
+-  Áreas de Interesse: Sistemas Embarcados // Criação de programas de Automatização // DevWeb
 -  Linguagems de conhecimento: C/C++ - Avançado // JavaScript - Básico // Python - Básico
 -  Estudando: Java // C#
 -  FrameWorks: HTML // CSS // FLASK
