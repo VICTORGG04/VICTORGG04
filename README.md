@@ -38,8 +38,8 @@ Sou **Victor Marcial**, um desenvolvedor apaixonado por **transformar ideias em 
 
 ## 🌐 Conecte-se Comigo!
 
-* **LinkedIn:** [Seu perfil do LinkedIn aqui (se tiver)](https://www.linkedin.com/in/victor-marcial-7ab310373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-* **Email:** [Seu email aqui (se quiser divulgar)](mailto:Victor.marcial.124@ufrn.edu.br)
+* **LinkedIn:** [https://www.linkedin.com/in/victor-marcial-7ab310373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/victor-marcial-7ab310373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* **Email:** [Victor.marcial.124@ufrn.edu.br](mailto:Victor.marcial.124@ufrn.edu.br)
 
 ---
 
