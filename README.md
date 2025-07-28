@@ -20,12 +20,12 @@ Sou **Victor Marcial**, um desenvolvedor apaixonado por **transformar ideias em 
 ## 🎯 Portfólio de Projetos em Destaque
 
 ### 1. CAMPO_MINADO
-* **Descrição:** Implementação do clássico jogo Campo Minado, demonstrando minha habilidade em lógica de programação e desenvolvimento de jogos/aplicações de console.
+* **Descrição:** Implementação do clássico jogo Campo Minado, demonstrando habilidade em lógica de programação e desenvolvimento de jogos/aplicações de console.
 * **Tecnologias Utilizadas:** `C/C++`
 * **Repositório:** [Ver Projeto no GitHub](https://github.com/VICTORGG04/CAMPO_MINADO)
 
 ### 2. PROJECT-SENSOR-BMP-180
-* **Descrição:** Um projeto focado na interação com o sensor BMP-180, provavelmente para coleta e processamento de dados de pressão e temperatura, indicando habilidades em sistemas embarcados ou IoT.
+* **Descrição:** Um projeto focado na interação com o sensor BMP-180, para coleta e processamento de dados de pressão e temperatura, indicado para sistemas embarcados ou IoT.
 * **Tecnologias Utilizadas:** `C/C++`
 * **Repositório:** [Ver Projeto no GitHub](https://github.com/VICTORGG04/PROJECT-SENSOR-BMP-180)
 
