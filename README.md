@@ -34,6 +34,16 @@ Sou **Victor Marcial**, um desenvolvedor apaixonado por **transformar ideias em 
 * **Tecnologias Utilizadas:** `Python`
 * **Repositório:** [Ver Projeto no GitHub](https://github.com/VICTORGG04/BotChatWhatsAppPizzaria)
 
+### 4. Sistema-de-Monitoramento-Vitais
+* **Descrição:** Sistema de monitoramento contínuo e remoto de sinais vitais, ideal para ambientes hospitalares, clínicas ou monitoramento domiciliar. O projeto destaca a capacidade de criar soluções de baixo custo e alta eficiência para o setor da saúde.
+* **Tecnologias Utilizadas:** `C++`, `HTML`
+* **Repositório:** [Ver Projeto no GitHub](https://github.com/VICTORGG04/Sistema-de-Monitoramento-Vitais.git)
+
+### 5. Sistema-de-Irrigacao-Inteligente-com-Blynker
+* **Descrição:** Um sistema de irrigação inteligente que utiliza sensores para medir a umidade do solo e acionar o sistema de irrigação automaticamente. O projeto também inclui a integração com a plataforma Blynk, permitindo o monitoramento e controle remoto via aplicativo.
+* **Tecnologias Utilizadas:** `C++`, `Blynk`
+* **Repositório:** [Ver Projeto no GitHub](https://github.com/VICTORGG04/Sistema-de-Irriga-o-Inteligente-com-Blynker.git)
+
 ---
 
 ## 🌐 Conecte-se Comigo!
@@ -42,4 +52,3 @@ Sou **Victor Marcial**, um desenvolvedor apaixonado por **transformar ideias em 
 * **Email:** [Victor.marcial.124@ufrn.edu.br](mailto:Victor.marcial.124@ufrn.edu.br)
 
 ---
-
