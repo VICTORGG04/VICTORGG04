@@ -51,7 +51,7 @@ Sou Victor Marcial, um desenvolvedor apaixonado por transformar ideias em soluç
 ### 5. Sistema-de-Irrigacao-Inteligente-com-Blynker  
 **Descrição**: Sistema de irrigação inteligente que utiliza sensores para medir a umidade do solo e acionar o sistema de irrigação automaticamente. Inclui integração com a plataforma Blynk para monitoramento e controle remoto via aplicativo.  
 **Tecnologias Utilizadas**: C++, Blynk  
-**Repositório**: [Ver Projeto no GitHub](https://github.com/VICTORGG04/Sistema-de-Irrigacao-Inteligente-com-Blynker)  
+**Repositório**: [Ver Projeto no GitHub](https://github.com/VICTORGG04/Sistema-de-Irriga-o-Inteligente-com-Blynker.git)  
 
 ---
 
